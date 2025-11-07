@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GamingTools.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d597f271cc030e34ed542759f964e8fbe1fe6e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GamingTools.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GamingTools.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
